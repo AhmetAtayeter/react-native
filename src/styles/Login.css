@@ -1,0 +1,20 @@
+.view1 {
+    display: flex;
+    background-color:"#464646" ;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    z-index: 1;
+    flex: 1
+  };
+  .to1 {
+    align-items: center;
+    justify-content: center;
+    background-color: "#3A5BAA";
+    border-radius: 5;
+    width: 90%;
+    height: 5%;
+  };
+  .text1 {
+    color: white;
+  }
